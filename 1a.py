@@ -1,3 +1,4 @@
+#best of two tests
 m1=int(input("enter the marks of test1= "));
 m2=int(input("enter the marks of test2= "));
 m3=int(input("enter the marks of test3= "));
